@@ -25,14 +25,14 @@ SIZE = 720
 REGIONS = 760
 COLOURS = 120
 TOPICS = [
-    ("Wildlife Portrait", "detailed wildlife animal illustration"),
-    ("Woodland Scene", "detailed woodland animals forest illustration"),
-    ("Ocean Life", "detailed sea animal underwater illustration"),
-    ("Garden Life", "detailed bird butterfly flowers illustration"),
-    ("Countryside", "detailed countryside animal landscape illustration"),
-    ("Big Cats", "detailed lion tiger leopard illustration"),
-    ("Mountain Wildlife", "detailed mountain wildlife landscape illustration"),
-    ("Tropical Nature", "detailed tropical birds animals illustration"),
+    ("Wildlife Portrait", "wildlife animal"),
+    ("Woodland Scene", "forest animal"),
+    ("Ocean Life", "underwater animal"),
+    ("Garden Life", "bird butterfly flowers"),
+    ("Countryside", "countryside animal"),
+    ("Big Cats", "lion tiger leopard"),
+    ("Mountain Wildlife", "mountain wildlife"),
+    ("Tropical Nature", "tropical bird animal"),
 ]
 
 
@@ -74,7 +74,12 @@ def candidates(query: str, seed: int):
         metadata = info.get("extmetadata") or {}
         license_name = (metadata.get("LicenseShortName") or {}).get("value", "")
         normalized = license_name.lower().replace("-", "").replace(" ", "")
-        if not ("publicdomain" in normalized or "cc0" in normalized or normalized == "pdm"):
+        if not (
+            "publicdomain" in normalized
+            or "cc0" in normalized
+            or normalized == "pdm"
+            or normalized.startswith("ccby")
+        ):
             continue
         image_url = info.get("thumburl") or info.get("url")
         if not image_url or not str(info.get("mime", "")).startswith("image/"):
@@ -90,7 +95,7 @@ def candidates(query: str, seed: int):
             "url": image_url,
             "title": clean("ImageDescription", page.get("title", "")),
             "creator": clean("Artist", "Unknown"),
-            "license": "cc0" if "cc0" in normalized else "pdm",
+            "license": license_name,
             "license_url": (metadata.get("LicenseUrl") or {}).get("value", ""),
             "foreign_landing_url": f"https://commons.wikimedia.org/?curid={page.get('pageid')}",
             "provider": "Wikimedia Commons",
