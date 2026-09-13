@@ -2,7 +2,7 @@
 
 This public feed prepares five new colour-by-number pictures each day for the DailyPuzzler Android app.
 
-- Source discovery: Openverse API
+- Source discovery: Wikimedia Commons API
 - Accepted licences: CC0 and Public Domain Mark only
 - Output: completed preview, blank line art, region mask, shuffled palette and licence metadata
 - Schedule: shortly after midnight UTC, plus manual runs
