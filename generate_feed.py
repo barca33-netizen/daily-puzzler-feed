@@ -4,9 +4,11 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import io
 import json
 import random
+import re
 import shutil
 from datetime import date
 from pathlib import Path
@@ -16,7 +18,7 @@ import requests
 from PIL import Image, ImageFilter, ImageOps
 from skimage.segmentation import find_boundaries, slic
 
-API = "https://api.openverse.org/v1/images/"
+API = "https://commons.wikimedia.org/w/api.php"
 RAW_ROOT = "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed"
 OUT = Path("feed")
 SIZE = 720
@@ -52,8 +54,47 @@ def download(url: str) -> Image.Image:
 
 
 def candidates(query: str, seed: int):
-    data = get_json(API, q=query, license="cc0,pdm", page_size=80, mature="false")
-    results = [x for x in data.get("results", []) if x.get("url") and x.get("license") in {"cc0", "pdm"}]
+    data = get_json(
+        API,
+        action="query",
+        generator="search",
+        gsrsearch=f"{query} filetype:bitmap",
+        gsrnamespace=6,
+        gsrlimit=80,
+        prop="imageinfo",
+        iiprop="url|extmetadata|mime|size",
+        iiurlwidth=1600,
+        format="json",
+        formatversion=2,
+        origin="*",
+    )
+    results = []
+    for page in data.get("query", {}).get("pages", []):
+        info = (page.get("imageinfo") or [{}])[0]
+        metadata = info.get("extmetadata") or {}
+        license_name = (metadata.get("LicenseShortName") or {}).get("value", "")
+        normalized = license_name.lower().replace("-", "").replace(" ", "")
+        if not ("publicdomain" in normalized or "cc0" in normalized or normalized == "pdm"):
+            continue
+        image_url = info.get("thumburl") or info.get("url")
+        if not image_url or not str(info.get("mime", "")).startswith("image/"):
+            continue
+
+        def clean(field: str, fallback: str = "") -> str:
+            value = (metadata.get(field) or {}).get("value", fallback)
+            value = re.sub(r"<[^>]+>", " ", value)
+            return " ".join(html.unescape(value).split())
+
+        results.append({
+            "id": str(page.get("pageid")),
+            "url": image_url,
+            "title": clean("ImageDescription", page.get("title", "")),
+            "creator": clean("Artist", "Unknown"),
+            "license": "cc0" if "cc0" in normalized else "pdm",
+            "license_url": (metadata.get("LicenseUrl") or {}).get("value", ""),
+            "foreign_landing_url": f"https://commons.wikimedia.org/?curid={page.get('pageid')}",
+            "provider": "Wikimedia Commons",
+        })
     random.Random(seed).shuffle(results)
     return results
 
