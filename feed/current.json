@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T00:05:00Z",
+  "pictures": [
+    {
+      "id": "6a4b91efaf1c2e74",
+      "title": "Chimpanzee at Kibale forest National Park",
+      "subtitle": "Woodland Scene \u2022 707 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Chimpanzee at Kibale forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134376867",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-09-13/picture-1"
+    },
+    {
+      "id": "9f44d813b912f3e9",
+      "title": "Ko\u015bci pod Dziewicz\u0105 G\u00f3r\u0105.",
+      "subtitle": "Countryside \u2022 724 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Ko\u015bci pod Dziewicz\u0105 G\u00f3r\u0105.",
+        "creator": "MOs810",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=48560543",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-09-13/picture-2"
+    },
+    {
+      "id": "f2d86ba9ac238795",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-09-13/picture-3"
+    },
+    {
+      "id": "b8f7e2fae333f3c5",
+      "title": "Lion Couchant by Edwin Landseer Engravings of lions, tigers, panthers,",
+      "subtitle": "Big Cats \u2022 729 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Lion Couchant by Edwin Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556265",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-09-13/picture-4"
+    },
+    {
+      "id": "853ebe36c94bb793",
+      "title": "Nembrotha kubaryana (Nudibranch)",
+      "subtitle": "Ocean Life \u2022 672 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Nembrotha kubaryana (Nudibranch)",
+        "creator": "Nhobgood Nick Hobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=6280727",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-09-13/picture-5"
+    }
+  ]
+}
