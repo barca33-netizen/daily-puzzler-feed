@@ -1,13 +1,43 @@
 {
   "schema": 1,
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T00:05:00Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T00:05:00Z",
   "pictures": [
     {
-      "id": "d8b72ff7ee266944",
+      "id": "3e670064e1baf5cd",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 748 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656139",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-1"
+    },
+    {
+      "id": "6d2f73f24df9494d",
+      "title": "Cricket St Thomas Wildlife Park Deer in the pools at Cricket St Thomas",
+      "subtitle": "Wildlife Portrait \u2022 766 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Cricket St Thomas Wildlife Park Deer in the pools at Cricket St Thomas wildlife park",
+        "creator": "Roger Dean",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=12329162",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-2"
+    },
+    {
+      "id": "f5b5ba4920adfb0e",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-1",
+      "path": "picture-3",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -16,67 +46,37 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-11/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-3"
     },
     {
-      "id": "f6b39ec8d771efd2",
-      "title": "Golden anemone ( Condylactis aurantiaca ), Pistol Bay, Paphos, Cyprus.",
-      "subtitle": "Ocean Life \u2022 722 shaped regions \u2022 120 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Golden anemone ( Condylactis aurantiaca ), Pistol Bay, Paphos, Cyprus. This species of anemone is found only in the Mediterranean Sea in depths of up to 80 metres. The base is attached to a rock, stone or shell and the column immersed in sediment, usually sand or gravel, with only the oral disc and tentacles visible. The oral disc may reach 12 centimetres (4.7 in), the overall diameter with the tentacles spread out is around 30 centimetres (12 in) and each tentacle is around 8 centimetres (3 in) long, green to yellow in colour, and sometimes greyish. They often have bands of white and other colours, and purple tips.",
-        "creator": "Diego Delso",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=114333135",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-11/picture-2"
-    },
-    {
-      "id": "9afc16c90afe5879",
-      "title": "Bouquet of two carnations and a tulip bound by a blue ribbon; bird per",
-      "subtitle": "Garden Life \u2022 715 shaped regions \u2022 119 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "Bouquet of two carnations and a tulip bound by a blue ribbon; bird perched on tulip; butterflies and insect fly above.",
-        "creator": "Unknown artist Unknown artist",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=64486988",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-11/picture-3"
-    },
-    {
-      "id": "ac5ad9bc606156e2",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 713 shaped regions \u2022 120 colours",
+      "id": "8313e48be0b12d9a",
+      "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly af",
+      "subtitle": "Big Cats \u2022 731 shaped regions \u2022 119 colours",
       "path": "picture-4",
       "source": {
-        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
-        "creator": "mark byzewski",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656383",
+        "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556720",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-11/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-4"
     },
     {
-      "id": "74681bd122babaae",
-      "title": "Traditional people's use animals as a transport",
-      "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
+      "id": "3f1b7c9fcd8b8fb9",
+      "title": "We came across many scattered bones. Could be the doings of a bear or ",
+      "subtitle": "Countryside \u2022 693 shaped regions \u2022 120 colours",
       "path": "picture-5",
       "source": {
-        "title": "Traditional people's use animals as a transport",
-        "creator": "Laghariusif",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
+        "title": "We came across many scattered bones. Could be the doings of a bear or the cattle died of natural causes and crows scattered the bones.",
+        "creator": "Ashish Gupta from Noida, India",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=58850222",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-11/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-5"
     }
   ]
 }
