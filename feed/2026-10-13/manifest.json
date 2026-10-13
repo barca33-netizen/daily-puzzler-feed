@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T00:05:00Z",
+  "pictures": [
+    {
+      "id": "a2b9df4de57e5b77",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-1"
+    },
+    {
+      "id": "890b91eb47c5cacf",
+      "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeir",
+      "subtitle": "Woodland Scene \u2022 780 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeira , Portugal Fanal is a mystical high plateau area in the northwest of the island of Madeira. It is located in the Laurisilva Forest, an evergreen laurel forest that has been a UNESCO World Heritage Site since 1999. Fanal is particularly well known for its centuries-old laurel trees with gnarled, moss-covered branches. The frequent fog creates a fairytale-like, almost surreal atmosphere. The trees are part of an ancient ecosystem that covered large parts of southern Europe millions of years ago. Historically, the area was used for agriculture at times, for example as pasture land. Today, Fanal is a nature reserve and a popular destination for hikers and nature photographers. It is considered one of Madeira\u2019s most impressive natural monuments and symbolizes the island\u2019s original, wild landscape.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=178802078",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-2"
+    },
+    {
+      "id": "61f03ef630dfa646",
+      "title": "Traditional people's use animals as a transport",
+      "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Traditional people's use animals as a transport",
+        "creator": "Laghariusif",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-3"
+    },
+    {
+      "id": "dc9a7e42689b8950",
+      "title": "Diver below Corbera Island, Santander, Spain",
+      "subtitle": "Ocean Life \u2022 773 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Diver below Corbera Island, Santander, Spain",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=97239869",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-4"
+    },
+    {
+      "id": "dfb4270e85c29fe3",
+      "title": "Butterfly",
+      "subtitle": "Garden Life \u2022 638 shaped regions \u2022 118 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Butterfly",
+        "creator": "Mike's Birds from Riverside, CA, US",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=81465495",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-5"
+    }
+  ]
+}

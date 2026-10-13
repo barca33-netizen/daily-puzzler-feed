@@ -1,43 +1,13 @@
 {
   "schema": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:05:00Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T00:05:00Z",
   "pictures": [
     {
-      "id": "3e670064e1baf5cd",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 748 shaped regions \u2022 120 colours",
-      "path": "picture-1",
-      "source": {
-        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
-        "creator": "mark byzewski",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656139",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-1"
-    },
-    {
-      "id": "6d2f73f24df9494d",
-      "title": "Cricket St Thomas Wildlife Park Deer in the pools at Cricket St Thomas",
-      "subtitle": "Wildlife Portrait \u2022 766 shaped regions \u2022 120 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Cricket St Thomas Wildlife Park Deer in the pools at Cricket St Thomas wildlife park",
-        "creator": "Roger Dean",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=12329162",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-2"
-    },
-    {
-      "id": "f5b5ba4920adfb0e",
+      "id": "a2b9df4de57e5b77",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-3",
+      "path": "picture-1",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -46,37 +16,67 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-1"
     },
     {
-      "id": "8313e48be0b12d9a",
-      "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly af",
-      "subtitle": "Big Cats \u2022 731 shaped regions \u2022 119 colours",
+      "id": "890b91eb47c5cacf",
+      "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeir",
+      "subtitle": "Woodland Scene \u2022 780 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeira , Portugal Fanal is a mystical high plateau area in the northwest of the island of Madeira. It is located in the Laurisilva Forest, an evergreen laurel forest that has been a UNESCO World Heritage Site since 1999. Fanal is particularly well known for its centuries-old laurel trees with gnarled, moss-covered branches. The frequent fog creates a fairytale-like, almost surreal atmosphere. The trees are part of an ancient ecosystem that covered large parts of southern Europe millions of years ago. Historically, the area was used for agriculture at times, for example as pasture land. Today, Fanal is a nature reserve and a popular destination for hikers and nature photographers. It is considered one of Madeira\u2019s most impressive natural monuments and symbolizes the island\u2019s original, wild landscape.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=178802078",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-2"
+    },
+    {
+      "id": "61f03ef630dfa646",
+      "title": "Traditional people's use animals as a transport",
+      "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Traditional people's use animals as a transport",
+        "creator": "Laghariusif",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-3"
+    },
+    {
+      "id": "dc9a7e42689b8950",
+      "title": "Diver below Corbera Island, Santander, Spain",
+      "subtitle": "Ocean Life \u2022 773 shaped regions \u2022 120 colours",
       "path": "picture-4",
       "source": {
-        "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
-        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556720",
+        "title": "Diver below Corbera Island, Santander, Spain",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=97239869",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-4"
     },
     {
-      "id": "3f1b7c9fcd8b8fb9",
-      "title": "We came across many scattered bones. Could be the doings of a bear or ",
-      "subtitle": "Countryside \u2022 693 shaped regions \u2022 120 colours",
+      "id": "dfb4270e85c29fe3",
+      "title": "Butterfly",
+      "subtitle": "Garden Life \u2022 638 shaped regions \u2022 118 colours",
       "path": "picture-5",
       "source": {
-        "title": "We came across many scattered bones. Could be the doings of a bear or the cattle died of natural causes and crows scattered the bones.",
-        "creator": "Ashish Gupta from Noida, India",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=58850222",
+        "title": "Butterfly",
+        "creator": "Mike's Birds from Riverside, CA, US",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=81465495",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-12/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-13/picture-5"
     }
   ]
 }
