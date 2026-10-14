@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T00:05:00Z",
+  "pictures": [
+    {
+      "id": "5036f935dea548d7",
+      "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. Th",
+      "subtitle": "Ocean Life \u2022 713 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. This moray, also called leopard moray eel, can reach a maximum length of 3 metres (9.8 ft). The laced moray lives on the outer slopes of coral reefs and is widespread throughout the Indo-West Pacific area from eastern coast of Africa, Red Sea included, to Papua New Guinea and from southern Japan to the Great Barrier Reef.",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=151812091",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-14/picture-1"
+    },
+    {
+      "id": "6899d25d850bb34d",
+      "title": "Handbill of Merchant's Hall, [1739], announcing A lion, lionesses, tig",
+      "subtitle": "Big Cats \u2022 600 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Handbill of Merchant's Hall, [1739], announcing A lion, lionesses, tigers, etc.; \"with several other rarities, too tedious to mention\"; 1739 (manuscript); Lion; Two large lionesses, or she-lions; Large he-tiger; One large she-tiger; Beautiful, noble panther; Large, wonderful, surprizing hyena; Large leopard; Large man tyger or Mounton Monster from Africa; [Handbill of Merchant's Hall, [1739], announcing A lion, lionesses, tigers, etc. ]",
+        "creator": "Charles Benjamin Incledon, 1763-1826 [performer]",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=46747241",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-14/picture-2"
+    },
+    {
+      "id": "c8756e044a03105d",
+      "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest Nationa",
+      "subtitle": "Woodland Scene \u2022 717 shaped regions \u2022 118 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=147147958",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-14/picture-3"
+    },
+    {
+      "id": "18fceab2825cb77f",
+      "title": "Butterfly",
+      "subtitle": "Garden Life \u2022 702 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Butterfly",
+        "creator": "Mike's Birds from Riverside, CA, US",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=81465500",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-14/picture-4"
+    },
+    {
+      "id": "c33a4709e1914859",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-14/picture-5"
+    }
+  ]
+}
