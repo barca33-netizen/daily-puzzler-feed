@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T00:05:00Z",
+  "pictures": [
+    {
+      "id": "2e576a4048b53226",
+      "title": "A calendar and trade card depicting birds, winter, snow, butterfly, ho",
+      "subtitle": "Garden Life \u2022 671 shaped regions \u2022 117 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "A calendar and trade card depicting birds, winter, snow, butterfly, holly, a vase of flowers and a women walking down stairs",
+        "creator": "paolo from tv, preganziol",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=164284765",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-1"
+    },
+    {
+      "id": "9f2c20812630eb0d",
+      "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest Nationa",
+      "subtitle": "Woodland Scene \u2022 717 shaped regions \u2022 118 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=147147958",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-2"
+    },
+    {
+      "id": "811e04882ca15630",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-3"
+    },
+    {
+      "id": "d952eda54bae1ebb",
+      "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer ",
+      "subtitle": "Big Cats \u2022 742 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556435",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-4"
+    },
+    {
+      "id": "a301e48ad3eed148",
+      "title": "Wildlife photographer in camouflage clothing. Some wild animals are ve",
+      "subtitle": "Wildlife Portrait \u2022 719 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Wildlife photographer in camouflage clothing. Some wild animals are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear camouflage clothing when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence.",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=156188471",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-5"
+    }
+  ]
+}
