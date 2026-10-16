@@ -1,82 +1,82 @@
 {
   "schema": 1,
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T00:05:00Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T00:05:00Z",
   "pictures": [
     {
-      "id": "2e576a4048b53226",
-      "title": "A calendar and trade card depicting birds, winter, snow, butterfly, ho",
-      "subtitle": "Garden Life \u2022 671 shaped regions \u2022 117 colours",
+      "id": "d134192084f1bfe7",
+      "title": "Diver below Corbera Island, Santander, Spain",
+      "subtitle": "Ocean Life \u2022 773 shaped regions \u2022 120 colours",
       "path": "picture-1",
       "source": {
-        "title": "A calendar and trade card depicting birds, winter, snow, butterfly, holly, a vase of flowers and a women walking down stairs",
-        "creator": "paolo from tv, preganziol",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=164284765",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-1"
-    },
-    {
-      "id": "9f2c20812630eb0d",
-      "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest Nationa",
-      "subtitle": "Woodland Scene \u2022 717 shaped regions \u2022 118 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest National Park",
-        "creator": "Giles Laurent",
+        "title": "Diver below Corbera Island, Santander, Spain",
+        "creator": "Diego Delso",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=147147958",
+        "pageUrl": "https://commons.wikimedia.org/?curid=97239869",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-1"
     },
     {
-      "id": "811e04882ca15630",
-      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-3",
+      "id": "e96ba3bba4eedb5a",
+      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
+      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "path": "picture-2",
       "source": {
-        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-        "creator": "H. Zell",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-3"
-    },
-    {
-      "id": "d952eda54bae1ebb",
-      "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer ",
-      "subtitle": "Big Cats \u2022 742 shaped regions \u2022 119 colours",
-      "path": "picture-4",
-      "source": {
-        "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
         "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
         "license": "PUBLIC DOMAIN",
         "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556435",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-2"
     },
     {
-      "id": "a301e48ad3eed148",
-      "title": "Wildlife photographer in camouflage clothing. Some wild animals are ve",
-      "subtitle": "Wildlife Portrait \u2022 719 shaped regions \u2022 120 colours",
-      "path": "picture-5",
+      "id": "2b742d668f0b0c27",
+      "title": "between Varanasi and Allahabad",
+      "subtitle": "Countryside \u2022 738 shaped regions \u2022 119 colours",
+      "path": "picture-3",
       "source": {
-        "title": "Wildlife photographer in camouflage clothing. Some wild animals are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear camouflage clothing when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence.",
-        "creator": "Giles Laurent",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=156188471",
+        "title": "between Varanasi and Allahabad",
+        "creator": "Ninara from Helsinki, Finland",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=77381024",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-15/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-3"
+    },
+    {
+      "id": "dc8cebd82d09cb14",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-4"
+    },
+    {
+      "id": "e7fd255f5368255e",
+      "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
+      "subtitle": "Garden Life \u2022 712 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
+        "creator": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=65427897",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-5"
     }
   ]
 }

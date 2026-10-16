@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T00:05:00Z",
+  "pictures": [
+    {
+      "id": "d134192084f1bfe7",
+      "title": "Diver below Corbera Island, Santander, Spain",
+      "subtitle": "Ocean Life \u2022 773 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Diver below Corbera Island, Santander, Spain",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=97239869",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-1"
+    },
+    {
+      "id": "e96ba3bba4eedb5a",
+      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
+      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-2"
+    },
+    {
+      "id": "2b742d668f0b0c27",
+      "title": "between Varanasi and Allahabad",
+      "subtitle": "Countryside \u2022 738 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "between Varanasi and Allahabad",
+        "creator": "Ninara from Helsinki, Finland",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=77381024",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-3"
+    },
+    {
+      "id": "dc8cebd82d09cb14",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-4"
+    },
+    {
+      "id": "e7fd255f5368255e",
+      "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
+      "subtitle": "Garden Life \u2022 712 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
+        "creator": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=65427897",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-5"
+    }
+  ]
+}
