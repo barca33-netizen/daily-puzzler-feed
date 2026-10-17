@@ -1,82 +1,82 @@
 {
   "schema": 1,
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-16T00:05:00Z",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T00:05:00Z",
   "pictures": [
     {
-      "id": "d134192084f1bfe7",
-      "title": "Diver below Corbera Island, Santander, Spain",
-      "subtitle": "Ocean Life \u2022 773 shaped regions \u2022 120 colours",
+      "id": "55fd7f4d17cfd24c",
+      "title": "I did not know where to put some animals that got on a picture from a ",
+      "subtitle": "Countryside \u2022 753 shaped regions \u2022 120 colours",
       "path": "picture-1",
       "source": {
-        "title": "Diver below Corbera Island, Santander, Spain",
-        "creator": "Diego Delso",
+        "title": "I did not know where to put some animals that got on a picture from a 1994 visit, but someone provided me with a gallery to put them.",
+        "creator": "Dosseman",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=97239869",
+        "pageUrl": "https://commons.wikimedia.org/?curid=91973639",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-17/picture-1"
     },
     {
-      "id": "e96ba3bba4eedb5a",
-      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
-      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "id": "4b027ef578d73327",
+      "title": "Great egret ( Ardea alba egretta ) with a California vole ( Microtus c",
+      "subtitle": "Wildlife Portrait \u2022 758 shaped regions \u2022 119 colours",
       "path": "picture-2",
       "source": {
-        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
-        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
+        "title": "Great egret ( Ardea alba egretta ) with a California vole ( Microtus californicus ) in its beak at the Sacramento National Wildlife Refuge south of Willows, California",
+        "creator": "Frank Schulenburg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=113691169",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-17/picture-2"
     },
     {
-      "id": "2b742d668f0b0c27",
-      "title": "between Varanasi and Allahabad",
-      "subtitle": "Countryside \u2022 738 shaped regions \u2022 119 colours",
+      "id": "c15e24d3e505c913",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 742 shaped regions \u2022 118 colours",
       "path": "picture-3",
       "source": {
-        "title": "between Varanasi and Allahabad",
-        "creator": "Ninara from Helsinki, Finland",
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=77381024",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035322",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-17/picture-3"
     },
     {
-      "id": "dc8cebd82d09cb14",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
+      "id": "b613ebfe5725bdf0",
+      "title": "Nature reserve \u201cAm Enteborn\u201d, D\u00fclmen , North Rhine-Westphalia , German",
+      "subtitle": "Woodland Scene \u2022 652 shaped regions \u2022 118 colours",
       "path": "picture-4",
+      "source": {
+        "title": "Nature reserve \u201cAm Enteborn\u201d, D\u00fclmen , North Rhine-Westphalia , Germany The Am Enteborn nature reserve is located in the municipal area of D\u00fclmen in the M\u00fcnsterland region and is a small, ecologically valuable protected area. It is primarily a wetland and spring area with meadows, woodlands, and near-natural water structures. The name \u201cEnteborn\u201d refers to a spring or a water-rich area. Such wet locations provide habitat for amphibians, insects, and numerous bird species. Reed beds, tall forb communities, and some old tree stands are also typical features.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=32837390",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-17/picture-4"
+    },
+    {
+      "id": "26cd885bbc88e477",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 725 shaped regions \u2022 119 colours",
+      "path": "picture-5",
       "source": {
         "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
         "creator": "mark byzewski",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656207",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-4"
-    },
-    {
-      "id": "e7fd255f5368255e",
-      "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
-      "subtitle": "Garden Life \u2022 712 shaped regions \u2022 119 colours",
-      "path": "picture-5",
-      "source": {
-        "title": "Common tiger ( Danaus genutia genutia ) male, Kumarakom, Kerala, India",
-        "creator": "Charles J. Sharp",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=65427897",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-16/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-17/picture-5"
     }
   ]
 }
