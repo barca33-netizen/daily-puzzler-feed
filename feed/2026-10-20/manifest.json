@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T00:05:00Z",
+  "pictures": [
+    {
+      "id": "e714afd80ab53f39",
+      "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands,",
+      "subtitle": "Tropical Nature \u2022 719 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands, Spain.",
+        "creator": "Moni Sertel from Deutschland",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=12823267",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-1"
+    },
+    {
+      "id": "56b678e1c4b08896",
+      "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, ",
+      "subtitle": "Big Cats \u2022 743 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556453",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-2"
+    },
+    {
+      "id": "afbc88af7a6bcd7c",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 752 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656158",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-3"
+    },
+    {
+      "id": "a05731421d5438b8",
+      "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. Th",
+      "subtitle": "Ocean Life \u2022 713 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. This moray, also called leopard moray eel, can reach a maximum length of 3 metres (9.8 ft). The laced moray lives on the outer slopes of coral reefs and is widespread throughout the Indo-West Pacific area from eastern coast of Africa, Red Sea included, to Papua New Guinea and from southern Japan to the Great Barrier Reef.",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=151812091",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-4"
+    },
+    {
+      "id": "1b17d318376a7196",
+      "title": "Bosque de animales marinos formado por ascidias coloniales.",
+      "subtitle": "Woodland Scene \u2022 761 shaped regions \u2022 117 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Bosque de animales marinos formado por ascidias coloniales.",
+        "creator": "BravoGonzalo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=193574934",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-5"
+    }
+  ]
+}

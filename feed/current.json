@@ -1,82 +1,82 @@
 {
   "schema": 1,
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T00:05:00Z",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T00:05:00Z",
   "pictures": [
     {
-      "id": "3debb81e9fcd0001",
-      "title": "Dogs setting a Hare, by Edwin Landseer, engraved by Thomas Landseer En",
-      "subtitle": "Big Cats \u2022 752 shaped regions \u2022 120 colours",
+      "id": "e714afd80ab53f39",
+      "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands,",
+      "subtitle": "Tropical Nature \u2022 719 shaped regions \u2022 119 colours",
       "path": "picture-1",
       "source": {
-        "title": "Dogs setting a Hare, by Edwin Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands, Spain.",
+        "creator": "Moni Sertel from Deutschland",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=12823267",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-1"
+    },
+    {
+      "id": "56b678e1c4b08896",
+      "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, ",
+      "subtitle": "Big Cats \u2022 743 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
         "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
         "license": "PUBLIC DOMAIN",
         "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556699",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556453",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-19/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-2"
     },
     {
-      "id": "298c2663efba18fb",
-      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-        "creator": "H. Zell",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-19/picture-2"
-    },
-    {
-      "id": "768166ff32206f74",
-      "title": "Great egret ( Ardea alba egretta ) with a California vole ( Microtus c",
-      "subtitle": "Wildlife Portrait \u2022 758 shaped regions \u2022 119 colours",
+      "id": "afbc88af7a6bcd7c",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 752 shaped regions \u2022 120 colours",
       "path": "picture-3",
       "source": {
-        "title": "Great egret ( Ardea alba egretta ) with a California vole ( Microtus californicus ) in its beak at the Sacramento National Wildlife Refuge south of Willows, California",
-        "creator": "Frank Schulenburg",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=113691169",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-19/picture-3"
-    },
-    {
-      "id": "e1b03ad6064fe824",
-      "title": "G\u00f6versheide (near H\u00fclsenweg), D\u00fclmen , North Rhine-Westphalia , German",
-      "subtitle": "Woodland Scene \u2022 670 shaped regions \u2022 120 colours",
-      "path": "picture-4",
-      "source": {
-        "title": "G\u00f6versheide (near H\u00fclsenweg), D\u00fclmen , North Rhine-Westphalia , Germany",
-        "creator": "Dietmar Rabich",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=42018898",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-19/picture-4"
-    },
-    {
-      "id": "e5a20ea66a7686ca",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 732 shaped regions \u2022 119 colours",
-      "path": "picture-5",
-      "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035329",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656158",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-19/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-3"
+    },
+    {
+      "id": "a05731421d5438b8",
+      "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. Th",
+      "subtitle": "Ocean Life \u2022 713 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Laced moray ( Gymnothorax favagineus ), Ad Dimaniyat Islands, Oman. This moray, also called leopard moray eel, can reach a maximum length of 3 metres (9.8 ft). The laced moray lives on the outer slopes of coral reefs and is widespread throughout the Indo-West Pacific area from eastern coast of Africa, Red Sea included, to Papua New Guinea and from southern Japan to the Great Barrier Reef.",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=151812091",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-4"
+    },
+    {
+      "id": "1b17d318376a7196",
+      "title": "Bosque de animales marinos formado por ascidias coloniales.",
+      "subtitle": "Woodland Scene \u2022 761 shaped regions \u2022 117 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Bosque de animales marinos formado por ascidias coloniales.",
+        "creator": "BravoGonzalo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=193574934",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-20/picture-5"
     }
   ]
 }
