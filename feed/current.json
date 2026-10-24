@@ -1,28 +1,13 @@
 {
   "schema": 1,
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T00:05:00Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T00:05:00Z",
   "pictures": [
     {
-      "id": "ae4ba74724e40067",
-      "title": "Countryside near Burrenbridge, Lacken Road, Castlewellan, County Down,",
-      "subtitle": "Countryside \u2022 754 shaped regions \u2022 119 colours",
-      "path": "picture-1",
-      "source": {
-        "title": "Countryside near Burrenbridge, Lacken Road, Castlewellan, County Down, Northern Ireland, May 2010",
-        "creator": "Ardfern",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=10769898",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-23/picture-1"
-    },
-    {
-      "id": "eb386e9b032ce851",
+      "id": "7335aa4e3c880d72",
       "title": "Large-banded blenny ( Ophioblennius steindachneri ), Cabo San Lucas, B",
       "subtitle": "Ocean Life \u2022 750 shaped regions \u2022 118 colours",
-      "path": "picture-2",
+      "path": "picture-1",
       "source": {
         "title": "Large-banded blenny ( Ophioblennius steindachneri ), Cabo San Lucas, Baja California, Mexico. It's found in coral reefs in the eastern Pacific ocean. This species reaches a length of 18 centimetres (7.1 in). They are territorial and feed during the day when they graze on algae and prey on sessile invertebrates by using the incisor teeth, which are similar in shape to combs, to scrape food off the rock.",
         "creator": "Diego Delso",
@@ -31,25 +16,40 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=164688224",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-23/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-24/picture-1"
     },
     {
-      "id": "f188c5dab0e4ca72",
-      "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeir",
-      "subtitle": "Woodland Scene \u2022 726 shaped regions \u2022 119 colours",
-      "path": "picture-3",
+      "id": "a6a998ab8825e53e",
+      "title": "Proctor: Study of a Bloodhound's Head, by Edwin Landseer, engraved by ",
+      "subtitle": "Big Cats \u2022 761 shaped regions \u2022 120 colours",
+      "path": "picture-2",
       "source": {
-        "title": "Laurel trees ( Ocotea foetens ) in the laurel forest \u201c Fanal \u201d, Madeira , Portugal Fanal is a mystical high plateau area in the northwest of the island of Madeira. It is located in the Laurisilva Forest, an evergreen laurel forest that has been a UNESCO World Heritage Site since 1999. Fanal is particularly well known for its centuries-old laurel trees with gnarled, moss-covered branches. The frequent fog creates a fairytale-like, almost surreal atmosphere. The trees are part of an ancient ecosystem that covered large parts of southern Europe millions of years ago. Historically, the area was used for agriculture at times, for example as pasture land. Today, Fanal is a nature reserve and a popular destination for hikers and nature photographers. It is considered one of Madeira\u2019s most impressive natural monuments and symbolizes the island\u2019s original, wild landscape.",
-        "creator": "Dietmar Rabich",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=179029983",
+        "title": "Proctor: Study of a Bloodhound's Head, by Edwin Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556737",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-23/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-24/picture-2"
     },
     {
-      "id": "b50e3236b40750b5",
+      "id": "839ded470ceb67aa",
+      "title": "Wildlife photographers wearing a ghillie suit looking for red deers in",
+      "subtitle": "Wildlife Portrait \u2022 663 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Wildlife photographers wearing a ghillie suit looking for red deers in the Aletsch Forest Nature Reserve. Some wild animals (such as red deers) are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear a ghillie suit when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence. Image set number 4 out of 6.",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=142045362",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-24/picture-3"
+    },
+    {
+      "id": "a83bd89ece417a73",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
       "path": "picture-4",
@@ -61,22 +61,22 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-23/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-24/picture-4"
     },
     {
-      "id": "ed41ac97bb1666f3",
+      "id": "369694ae4b87ef13",
       "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 754 shaped regions \u2022 119 colours",
+      "subtitle": "Mountain Wildlife \u2022 733 shaped regions \u2022 120 colours",
       "path": "picture-5",
       "source": {
         "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
         "creator": "mark byzewski",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656144",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656133",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-23/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-24/picture-5"
     }
   ]
 }
