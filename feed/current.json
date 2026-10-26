@@ -1,55 +1,55 @@
 {
   "schema": 1,
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T00:05:00Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T00:05:00Z",
   "pictures": [
     {
-      "id": "5831db60912dd16c",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
+      "id": "305187926060bc38",
+      "title": "Boyd's forest dragon ( Lophosaurus boydii ), Daintree rainforest, QLD,",
+      "subtitle": "Woodland Scene \u2022 744 shaped regions \u2022 120 colours",
       "path": "picture-1",
+      "source": {
+        "title": "Boyd's forest dragon ( Lophosaurus boydii ), Daintree rainforest, QLD, Australia",
+        "creator": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=143023771",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-26/picture-1"
+    },
+    {
+      "id": "9e49aff17c3dedcb",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 735 shaped regions \u2022 120 colours",
+      "path": "picture-2",
       "source": {
         "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
         "creator": "mark byzewski",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656148",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-25/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-26/picture-2"
     },
     {
-      "id": "2c81e6a448d82327",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 693 shaped regions \u2022 116 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035287",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-25/picture-2"
-    },
-    {
-      "id": "76a4c0e8192a57b8",
-      "title": "Sunrise in morning mist near D\u00fclmen (H\u00fclstener Stra\u00dfe), North Rhine-We",
-      "subtitle": "Woodland Scene \u2022 776 shaped regions \u2022 120 colours",
+      "id": "1846d34cde7deb05",
+      "title": "A sanderling, Calidris alba, on the shell beach of the Restinga. The s",
+      "subtitle": "Tropical Nature \u2022 747 shaped regions \u2022 119 colours",
       "path": "picture-3",
       "source": {
-        "title": "Sunrise in morning mist near D\u00fclmen (H\u00fclstener Stra\u00dfe), North Rhine-Westphalia , Germany",
-        "creator": "Dietmar Rabich",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=30298411",
+        "title": "A sanderling, Calidris alba, on the shell beach of the Restinga. The species breeds in the high Arctic and winters on tropical shores. Laguna de la Restinga National Park, Margarita Island, Nueva Esparta, Venezuela.",
+        "creator": "Wilfredor",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=23655711",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-25/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-26/picture-3"
     },
     {
-      "id": "9a3bedbc5e5b1320",
+      "id": "fa26468291cd3dd3",
       "title": "Lion Couchant by Edwin Landseer Engravings of lions, tigers, panthers,",
       "subtitle": "Big Cats \u2022 729 shaped regions \u2022 120 colours",
       "path": "picture-4",
@@ -61,22 +61,22 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=44556265",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-25/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-26/picture-4"
     },
     {
-      "id": "b88efe1632e953b4",
-      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "id": "94bbf9eeca287ea9",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 685 shaped regions \u2022 119 colours",
       "path": "picture-5",
       "source": {
-        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-        "creator": "H. Zell",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035218",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-25/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-26/picture-5"
     }
   ]
 }
