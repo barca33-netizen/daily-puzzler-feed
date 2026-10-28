@@ -1,28 +1,13 @@
 {
   "schema": 1,
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T00:05:00Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T00:05:00Z",
   "pictures": [
     {
-      "id": "cd08ecb78eaa5869",
-      "title": "Didemnum molle (Ascidian) on Siphonogorgia godeffroyi (Soft tree coral",
-      "subtitle": "Ocean Life \u2022 708 shaped regions \u2022 120 colours",
-      "path": "picture-1",
-      "source": {
-        "title": "Didemnum molle (Ascidian) on Siphonogorgia godeffroyi (Soft tree coral)",
-        "creator": "Nhobgood Nick Hobgood",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=6302517",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-27/picture-1"
-    },
-    {
-      "id": "cd0232eb3b41d56b",
+      "id": "f458b83915479189",
       "title": "Wildlife at Lake Manyara National Park, Tanzania, Africa. Zebras and o",
       "subtitle": "Wildlife Portrait \u2022 706 shaped regions \u2022 113 colours",
-      "path": "picture-2",
+      "path": "picture-1",
       "source": {
         "title": "Wildlife at Lake Manyara National Park, Tanzania, Africa. Zebras and other species are in abundance at Lake Manyara.",
         "creator": "Gaurav Pandit",
@@ -31,52 +16,67 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=4205814",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-27/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-1"
     },
     {
-      "id": "abcc0453cc853fbc",
-      "title": "Three Sisters , Blue Mountains National Park , New South Wales , Austr",
-      "subtitle": "Woodland Scene \u2022 718 shaped regions \u2022 116 colours",
-      "path": "picture-3",
+      "id": "1a39393caf7b40fd",
+      "title": "A sheep skeleton on a meadow of the Entzia mountain range, possibly wo",
+      "subtitle": "Countryside \u2022 749 shaped regions \u2022 120 colours",
+      "path": "picture-2",
       "source": {
-        "title": "Three Sisters , Blue Mountains National Park , New South Wales , Australia The Blue Mountains National Park is located west of Sydney and is one of Australia\u2019s most famous natural areas. Its history is closely linked to Aboriginal culture, particularly that of the Gundungurra and Darug peoples, who have inhabited the area for tens of thousands of years and have a spiritual connection to the landscape. For European settlers, the rugged sandstone plateaus were long considered an insurmountable obstacle. It was not until 1813 that Gregory Blaxland, William Lawson, and William Charles Wentworth succeeded in crossing the mountains, opening the way for the development of the Australian hinterland. In the 19th century, parts of the region were used for logging and mining, while at the same time its scenic appeal was discovered. In 1959, the Blue Mountains National Park was officially established to protect the unique eucalyptus vegetation, deep gorges, and waterfalls. In 2000, UNESCO declared the area part of the Greater Blue Mountains Area a World Heritage Site. Today, the park stands for nature conservation, tourism, and recognition of Australia\u2019s indigenous cultural history.",
-        "creator": "Dietmar Rabich",
+        "title": "A sheep skeleton on a meadow of the Entzia mountain range, possibly work of vultures. \u00c1lava, Basque Country, Spain",
+        "creator": "Basotxerri",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=85063306",
+        "pageUrl": "https://commons.wikimedia.org/?curid=56693065",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-27/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-2"
     },
     {
-      "id": "c980388055bd0a42",
-      "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer ",
-      "subtitle": "Big Cats \u2022 742 shaped regions \u2022 119 colours",
-      "path": "picture-4",
+      "id": "dc53613ac9e88e73",
+      "title": "Lion, after Ridinger, engraving by Thomas Landseer",
+      "subtitle": "Big Cats \u2022 767 shaped regions \u2022 118 colours",
+      "path": "picture-3",
       "source": {
-        "title": "Tigress, from Nature; by Thomas Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "title": "Lion, after Ridinger, engraving by Thomas Landseer",
         "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
         "license": "PUBLIC DOMAIN",
         "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556435",
+        "pageUrl": "https://commons.wikimedia.org/?curid=43510823",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-27/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-3"
     },
     {
-      "id": "eb6aedace317dbe3",
-      "title": "Traditional people's use animals as a transport",
-      "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
-      "path": "picture-5",
+      "id": "84562a65d32b1b20",
+      "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9sile",
+      "subtitle": "Woodland Scene \u2022 765 shaped regions \u2022 120 colours",
+      "path": "picture-4",
       "source": {
-        "title": "Traditional people's use animals as a transport",
-        "creator": "Laghariusif",
+        "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9siles y buceador",
+        "creator": "BravoGonzalo",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
+        "pageUrl": "https://commons.wikimedia.org/?curid=193574933",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-27/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-4"
+    },
+    {
+      "id": "38342a15ca283317",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-5"
     }
   ]
 }

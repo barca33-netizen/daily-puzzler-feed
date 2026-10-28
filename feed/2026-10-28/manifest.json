@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T00:05:00Z",
+  "pictures": [
+    {
+      "id": "f458b83915479189",
+      "title": "Wildlife at Lake Manyara National Park, Tanzania, Africa. Zebras and o",
+      "subtitle": "Wildlife Portrait \u2022 706 shaped regions \u2022 113 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Wildlife at Lake Manyara National Park, Tanzania, Africa. Zebras and other species are in abundance at Lake Manyara.",
+        "creator": "Gaurav Pandit",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=4205814",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-1"
+    },
+    {
+      "id": "1a39393caf7b40fd",
+      "title": "A sheep skeleton on a meadow of the Entzia mountain range, possibly wo",
+      "subtitle": "Countryside \u2022 749 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "A sheep skeleton on a meadow of the Entzia mountain range, possibly work of vultures. \u00c1lava, Basque Country, Spain",
+        "creator": "Basotxerri",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=56693065",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-2"
+    },
+    {
+      "id": "dc53613ac9e88e73",
+      "title": "Lion, after Ridinger, engraving by Thomas Landseer",
+      "subtitle": "Big Cats \u2022 767 shaped regions \u2022 118 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Lion, after Ridinger, engraving by Thomas Landseer",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=43510823",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-3"
+    },
+    {
+      "id": "84562a65d32b1b20",
+      "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9sile",
+      "subtitle": "Woodland Scene \u2022 765 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9siles y buceador",
+        "creator": "BravoGonzalo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=193574933",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-4"
+    },
+    {
+      "id": "38342a15ca283317",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-28/picture-5"
+    }
+  ]
+}
