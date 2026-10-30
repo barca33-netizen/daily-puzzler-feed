@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T00:05:00Z",
+  "pictures": [
+    {
+      "id": "13f9f5f1f2662ef7",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 685 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035218",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-1"
+    },
+    {
+      "id": "2f2fc0aef8a2eeba",
+      "title": "Traditional people's use animals as a transport",
+      "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Traditional people's use animals as a transport",
+        "creator": "Laghariusif",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-2"
+    },
+    {
+      "id": "8f24b8f02140b991",
+      "title": "Scuba diving tank, diving cylinder used by Malaysian Navy special oper",
+      "subtitle": "Ocean Life \u2022 722 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Scuba diving tank, diving cylinder used by Malaysian Navy special operations unit for underwater diving exercise. Pulau Perhentian Besar Island, Malaysia.",
+        "creator": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=121282032",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-3"
+    },
+    {
+      "id": "fdd8846b4c92d946",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-4"
+    },
+    {
+      "id": "3a9a3c653f17b192",
+      "title": "Two young Tuberous Parasol Fungi ( Chlorophyllum rhacodes ) in natural",
+      "subtitle": "Wildlife Portrait \u2022 664 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Two young Tuberous Parasol Fungi ( Chlorophyllum rhacodes ) in natural habitat . Focus stack of 16 photos.",
+        "creator": "Dominicus Johannes Bergsma",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=140530706",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-5"
+    }
+  ]
+}
