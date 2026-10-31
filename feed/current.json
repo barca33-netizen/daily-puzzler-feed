@@ -1,28 +1,13 @@
 {
   "schema": 1,
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T00:05:00Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:05:00Z",
   "pictures": [
     {
-      "id": "13f9f5f1f2662ef7",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 685 shaped regions \u2022 119 colours",
-      "path": "picture-1",
-      "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035218",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-1"
-    },
-    {
-      "id": "2f2fc0aef8a2eeba",
+      "id": "c376fd2ee82ac2ed",
       "title": "Traditional people's use animals as a transport",
       "subtitle": "Countryside \u2022 754 shaped regions \u2022 115 colours",
-      "path": "picture-2",
+      "path": "picture-1",
       "source": {
         "title": "Traditional people's use animals as a transport",
         "creator": "Laghariusif",
@@ -31,52 +16,67 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=159053713",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-31/picture-1"
     },
     {
-      "id": "8f24b8f02140b991",
-      "title": "Scuba diving tank, diving cylinder used by Malaysian Navy special oper",
-      "subtitle": "Ocean Life \u2022 722 shaped regions \u2022 119 colours",
+      "id": "74310f3b5c2cd912",
+      "title": "Chimpanzee at Kibale forest National Park",
+      "subtitle": "Woodland Scene \u2022 707 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Chimpanzee at Kibale forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134376867",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-31/picture-2"
+    },
+    {
+      "id": "bf0f2746074f723b",
+      "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landsee",
+      "subtitle": "Big Cats \u2022 746 shaped regions \u2022 120 colours",
       "path": "picture-3",
       "source": {
-        "title": "Scuba diving tank, diving cylinder used by Malaysian Navy special operations unit for underwater diving exercise. Pulau Perhentian Besar Island, Malaysia.",
-        "creator": "Vyacheslav Argenberg",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=121282032",
+        "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556708",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-31/picture-3"
     },
     {
-      "id": "fdd8846b4c92d946",
-      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "id": "2bc1d948cfaeb116",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 684 shaped regions \u2022 119 colours",
       "path": "picture-4",
       "source": {
-        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
-        "creator": "H. Zell",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035268",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-31/picture-4"
     },
     {
-      "id": "3a9a3c653f17b192",
-      "title": "Two young Tuberous Parasol Fungi ( Chlorophyllum rhacodes ) in natural",
-      "subtitle": "Wildlife Portrait \u2022 664 shaped regions \u2022 120 colours",
+      "id": "f420f167d591b23a",
+      "title": "Male Australasian shoveler ( Spatula rhynchotis ), Goulds Lagoon Wildl",
+      "subtitle": "Wildlife Portrait \u2022 760 shaped regions \u2022 120 colours",
       "path": "picture-5",
       "source": {
-        "title": "Two young Tuberous Parasol Fungi ( Chlorophyllum rhacodes ) in natural habitat . Focus stack of 16 photos.",
-        "creator": "Dominicus Johannes Bergsma",
-        "license": "CC0",
-        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "pageUrl": "https://commons.wikimedia.org/?curid=140530706",
+        "title": "Male Australasian shoveler ( Spatula rhynchotis ), Goulds Lagoon Wildlife Sanctuary, Tasmania",
+        "creator": "JJ Harrison",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=109132197",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-30/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-10-31/picture-5"
     }
   ]
 }
