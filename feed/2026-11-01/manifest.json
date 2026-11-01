@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T00:05:00Z",
+  "pictures": [
+    {
+      "id": "2c36cd1967a256d5",
+      "title": "National Nature Park Synevyr , Ukraine",
+      "subtitle": "Woodland Scene \u2022 730 shaped regions \u2022 118 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "National Nature Park Synevyr , Ukraine",
+        "creator": "Rbrechko",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=69470251",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-01/picture-1"
+    },
+    {
+      "id": "275d41decfd801fc",
+      "title": "Male Australasian shoveler ( Spatula rhynchotis ), Goulds Lagoon Wildl",
+      "subtitle": "Wildlife Portrait \u2022 760 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Male Australasian shoveler ( Spatula rhynchotis ), Goulds Lagoon Wildlife Sanctuary, Tasmania",
+        "creator": "JJ Harrison",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=109132197",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-01/picture-2"
+    },
+    {
+      "id": "3c4434cddeba4e24",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 743 shaped regions \u2022 117 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035309",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-01/picture-3"
+    },
+    {
+      "id": "fae7e03b423e7b52",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 686 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656281",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-01/picture-4"
+    },
+    {
+      "id": "b2977bbcf3978507",
+      "title": "Skeleton - Animals in the park are not fed, so large cats feed on zebr",
+      "subtitle": "Countryside \u2022 736 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Skeleton - Animals in the park are not fed, so large cats feed on zebras and other animals",
+        "creator": "Jorge L\u00e1scar from Australia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=31951841",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-01/picture-5"
+    }
+  ]
+}
