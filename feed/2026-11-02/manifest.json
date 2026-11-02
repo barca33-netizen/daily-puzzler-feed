@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T00:05:00Z",
+  "pictures": [
+    {
+      "id": "7069aebb7f6df935",
+      "title": "Where the birds and animals live",
+      "subtitle": "Woodland Scene \u2022 754 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Where the birds and animals live",
+        "creator": "NIVETHA OKC",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=103926499",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-1"
+    },
+    {
+      "id": "aa797f80226ba97f",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 743 shaped regions \u2022 117 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035309",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-2"
+    },
+    {
+      "id": "ad472f602076077d",
+      "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, ",
+      "subtitle": "Big Cats \u2022 766 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556537",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-3"
+    },
+    {
+      "id": "3d9cb99648edaa82",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-4"
+    },
+    {
+      "id": "c01bf9a25b98e140",
+      "title": "Male Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, Swa",
+      "subtitle": "Wildlife Portrait \u2022 736 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Male Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, Swaziland",
+        "creator": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=66101199",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-5"
+    }
+  ]
+}
