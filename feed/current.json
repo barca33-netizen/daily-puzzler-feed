@@ -1,58 +1,28 @@
 {
   "schema": 1,
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T00:05:00Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T00:05:00Z",
   "pictures": [
     {
-      "id": "7069aebb7f6df935",
-      "title": "Where the birds and animals live",
-      "subtitle": "Woodland Scene \u2022 754 shaped regions \u2022 120 colours",
+      "id": "10c57052cbedbbc5",
+      "title": "National Nature Park Synevyr , Ukraine",
+      "subtitle": "Woodland Scene \u2022 730 shaped regions \u2022 118 colours",
       "path": "picture-1",
       "source": {
-        "title": "Where the birds and animals live",
-        "creator": "NIVETHA OKC",
+        "title": "National Nature Park Synevyr , Ukraine",
+        "creator": "Rbrechko",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=103926499",
+        "pageUrl": "https://commons.wikimedia.org/?curid=69470251",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-03/picture-1"
     },
     {
-      "id": "aa797f80226ba97f",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 743 shaped regions \u2022 117 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035309",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-2"
-    },
-    {
-      "id": "ad472f602076077d",
-      "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, ",
-      "subtitle": "Big Cats \u2022 766 shaped regions \u2022 120 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "Lions, after Rubens, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
-        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556537",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-3"
-    },
-    {
-      "id": "3d9cb99648edaa82",
+      "id": "6365aef6d1647ca3",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-4",
+      "path": "picture-2",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -61,22 +31,52 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-03/picture-2"
     },
     {
-      "id": "c01bf9a25b98e140",
-      "title": "Male Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, Swa",
-      "subtitle": "Wildlife Portrait \u2022 736 shaped regions \u2022 119 colours",
-      "path": "picture-5",
+      "id": "ecdace6169ab9fc3",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 676 shaped regions \u2022 120 colours",
+      "path": "picture-3",
       "source": {
-        "title": "Male Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, Swaziland",
-        "creator": "Bernard Gagnon",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=66101199",
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656165",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-02/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-03/picture-3"
+    },
+    {
+      "id": "2dd2a0cac7017f09",
+      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
+      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-03/picture-4"
+    },
+    {
+      "id": "ada008290537e770",
+      "title": "Sheep near Burrenbridge, Dublin Road, Castlewellan, County Down, North",
+      "subtitle": "Countryside \u2022 734 shaped regions \u2022 117 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Sheep near Burrenbridge, Dublin Road, Castlewellan, County Down, Northern Ireland, May 2010",
+        "creator": "Ardfern",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=10621123",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-03/picture-5"
     }
   ]
 }
