@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T00:05:00Z",
+  "pictures": [
+    {
+      "id": "87df4a2a85c26cbb",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 684 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035268",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-04/picture-1"
+    },
+    {
+      "id": "1e2b9d3cd44f5d0f",
+      "title": "Forcipiger flavissimus Yellow Longnose Butterflyfish",
+      "subtitle": "Ocean Life \u2022 744 shaped regions \u2022 117 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Forcipiger flavissimus Yellow Longnose Butterflyfish",
+        "creator": "Nhobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=27300158",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-04/picture-2"
+    },
+    {
+      "id": "6b95d443e05f6ed7",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 698 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656168",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-04/picture-3"
+    },
+    {
+      "id": "d59b560f35e49b2b",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-04/picture-4"
+    },
+    {
+      "id": "440c1bd0192345bb",
+      "title": "Fish at Wingham Wildlife Park Kent UK",
+      "subtitle": "Wildlife Portrait \u2022 710 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Fish at Wingham Wildlife Park Kent UK",
+        "creator": "Salwa Farwaneh",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=168852605",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-04/picture-5"
+    }
+  ]
+}
