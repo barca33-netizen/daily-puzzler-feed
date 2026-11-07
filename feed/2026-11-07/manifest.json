@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T00:05:00Z",
+  "pictures": [
+    {
+      "id": "ac3529a35f78b185",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 741 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656140",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-07/picture-1"
+    },
+    {
+      "id": "fb46c56c88d2f38b",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 724 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035345",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-07/picture-2"
+    },
+    {
+      "id": "31b91e78bf367387",
+      "title": "Animal Kingdom Wildlife Express Train",
+      "subtitle": "Wildlife Portrait \u2022 741 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Animal Kingdom Wildlife Express Train",
+        "creator": "Kyosuke Takayama",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=5584652",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-07/picture-3"
+    },
+    {
+      "id": "e3c79f78d183de04",
+      "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
+      "subtitle": "Woodland Scene \u2022 716 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
+        "creator": "Chris Light",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=137806527",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-07/picture-4"
+    },
+    {
+      "id": "134f1e64d51a6cfe",
+      "title": "turtle #selfie #Indonesia #Wildlife #travel #ocean #underwater #GoPro",
+      "subtitle": "Ocean Life \u2022 689 shaped regions \u2022 118 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "turtle #selfie #Indonesia #Wildlife #travel #ocean #underwater #GoPro",
+        "creator": "Adam Bautz",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=48961024",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-07/picture-5"
+    }
+  ]
+}
