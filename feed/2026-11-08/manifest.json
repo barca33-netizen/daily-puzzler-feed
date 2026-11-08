@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T00:05:00Z",
+  "pictures": [
+    {
+      "id": "b302dcf29b991baa",
+      "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly af",
+      "subtitle": "Big Cats \u2022 758 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556753",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-08/picture-1"
+    },
+    {
+      "id": "b6d4b59778e3863e",
+      "title": "Display Artist: Nasr-Allah al-Husayni al-Imami Creation Date: 19th cen",
+      "subtitle": "Garden Life \u2022 700 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Display Artist: Nasr-Allah al-Husayni al-Imami Creation Date: 19th century Display Dimensions: 5 3/4 in. x 3 1/2 in. (14.61 cm x 8.89 cm) Credit Line: Gift of Edwin Binney 3rd Accession Number: 1971.70 Collection: The San Diego Museum of Art",
+        "creator": "thesandiegomuseumofartcollection",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=38311066",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-08/picture-2"
+    },
+    {
+      "id": "f16f394f7e3951dc",
+      "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
+      "subtitle": "Woodland Scene \u2022 716 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
+        "creator": "Chris Light",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=137806527",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-08/picture-3"
+    },
+    {
+      "id": "a965777abd7a32d6",
+      "title": "turtle #selfie #Indonesia #Wildlife #travel #ocean #underwater #GoPro",
+      "subtitle": "Ocean Life \u2022 689 shaped regions \u2022 118 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "turtle #selfie #Indonesia #Wildlife #travel #ocean #underwater #GoPro",
+        "creator": "Adam Bautz",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=48961024",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-08/picture-4"
+    },
+    {
+      "id": "1e5239dcf3131f4e",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 762 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656185",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-08/picture-5"
+    }
+  ]
+}
