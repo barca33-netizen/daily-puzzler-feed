@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:05:00Z",
+  "pictures": [
+    {
+      "id": "79203ee64f7cbd43",
+      "title": "Pic. 1. Baron M\u00fcnchhausen underwater.",
+      "subtitle": "Ocean Life \u2022 701 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Pic. 1. Baron M\u00fcnchhausen underwater.",
+        "creator": "Gottfried Franz (1846-1905)",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=7686240",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-1"
+    },
+    {
+      "id": "0fc43d1addf8ce56",
+      "title": "Wildlife photographers wearing a ghillie suit looking for red deers in",
+      "subtitle": "Wildlife Portrait \u2022 645 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Wildlife photographers wearing a ghillie suit looking for red deers in the Aletsch Forest Nature Reserve. Some wild animals (such as red deers) are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear a ghillie suit when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence. Image set number 2 out of 6.",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=142044895",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-2"
+    },
+    {
+      "id": "05201a40bfae9532",
+      "title": "Butterflies are my new interest and if I see something interest, am ha",
+      "subtitle": "Garden Life \u2022 717 shaped regions \u2022 118 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Butterflies are my new interest and if I see something interest, am happy to spend time to get some good shots. This is a Blue tiger, similar to its other cousin, the common tiger. I chased it for a short distance trying to get a good shot and grabbed a few shots while on this flower. Only later during review in the laptop did I see the little fly on the bird and they seemed to share the sweetness of the flower! What a lovely surprise! Did you know that most butterflies are poisonous to birds? There are some that are not, but many are. The few that are not, mimic the poisonous ones - a form of mimicry called the Batesian Mimicry. It is an interested read! Thanks in advance for your views and / or feedback. Much appreciated.",
+        "creator": "Hari K Patibanda",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=110193325",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-3"
+    },
+    {
+      "id": "e869878b79a15aee",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-4"
+    },
+    {
+      "id": "199ebbdd5ff0d81e",
+      "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9sile",
+      "subtitle": "Woodland Scene \u2022 755 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9siles y buceador.",
+        "creator": "BravoGonzalo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=193574931",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-5"
+    }
+  ]
+}
