@@ -1,55 +1,55 @@
 {
   "schema": 1,
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T00:05:00Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T00:05:00Z",
   "pictures": [
     {
-      "id": "79203ee64f7cbd43",
-      "title": "Pic. 1. Baron M\u00fcnchhausen underwater.",
-      "subtitle": "Ocean Life \u2022 701 shaped regions \u2022 120 colours",
+      "id": "ffa34724358feada",
+      "title": "_MG_3930",
+      "subtitle": "Countryside \u2022 711 shaped regions \u2022 120 colours",
       "path": "picture-1",
       "source": {
-        "title": "Pic. 1. Baron M\u00fcnchhausen underwater.",
-        "creator": "Gottfried Franz (1846-1905)",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=7686240",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-1"
-    },
-    {
-      "id": "0fc43d1addf8ce56",
-      "title": "Wildlife photographers wearing a ghillie suit looking for red deers in",
-      "subtitle": "Wildlife Portrait \u2022 645 shaped regions \u2022 120 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Wildlife photographers wearing a ghillie suit looking for red deers in the Aletsch Forest Nature Reserve. Some wild animals (such as red deers) are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear a ghillie suit when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence. Image set number 2 out of 6.",
-        "creator": "Giles Laurent",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=142044895",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-2"
-    },
-    {
-      "id": "05201a40bfae9532",
-      "title": "Butterflies are my new interest and if I see something interest, am ha",
-      "subtitle": "Garden Life \u2022 717 shaped regions \u2022 118 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "Butterflies are my new interest and if I see something interest, am happy to spend time to get some good shots. This is a Blue tiger, similar to its other cousin, the common tiger. I chased it for a short distance trying to get a good shot and grabbed a few shots while on this flower. Only later during review in the laptop did I see the little fly on the bird and they seemed to share the sweetness of the flower! What a lovely surprise! Did you know that most butterflies are poisonous to birds? There are some that are not, but many are. The few that are not, mimic the poisonous ones - a form of mimicry called the Batesian Mimicry. It is an interested read! Thanks in advance for your views and / or feedback. Much appreciated.",
-        "creator": "Hari K Patibanda",
+        "title": "_MG_3930",
+        "creator": "Prefeitura de Olinda from Brasil",
         "license": "CC BY 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=110193325",
+        "pageUrl": "https://commons.wikimedia.org/?curid=84128453",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-10/picture-1"
     },
     {
-      "id": "e869878b79a15aee",
+      "id": "72dd453d52edcfdb",
+      "title": "Leopard, after Ridinger, engraved by Thomas Landseer Engravings of lio",
+      "subtitle": "Big Cats \u2022 771 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Leopard, after Ridinger, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556299",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-10/picture-2"
+    },
+    {
+      "id": "7ec1e8d1512fae81",
+      "title": "Three Sisters , Blue Mountains National Park , New South Wales , Austr",
+      "subtitle": "Woodland Scene \u2022 718 shaped regions \u2022 116 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Three Sisters , Blue Mountains National Park , New South Wales , Australia The Blue Mountains National Park is located west of Sydney and is one of Australia\u2019s most famous natural areas. Its history is closely linked to Aboriginal culture, particularly that of the Gundungurra and Darug peoples, who have inhabited the area for tens of thousands of years and have a spiritual connection to the landscape. For European settlers, the rugged sandstone plateaus were long considered an insurmountable obstacle. It was not until 1813 that Gregory Blaxland, William Lawson, and William Charles Wentworth succeeded in crossing the mountains, opening the way for the development of the Australian hinterland. In the 19th century, parts of the region were used for logging and mining, while at the same time its scenic appeal was discovered. In 1959, the Blue Mountains National Park was officially established to protect the unique eucalyptus vegetation, deep gorges, and waterfalls. In 2000, UNESCO declared the area part of the Greater Blue Mountains Area a World Heritage Site. Today, the park stands for nature conservation, tourism, and recognition of Australia\u2019s indigenous cultural history.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=85063306",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-10/picture-3"
+    },
+    {
+      "id": "0345a5995ccf4498",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
       "path": "picture-4",
@@ -61,22 +61,22 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-10/picture-4"
     },
     {
-      "id": "199ebbdd5ff0d81e",
-      "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9sile",
-      "subtitle": "Woodland Scene \u2022 755 shaped regions \u2022 120 colours",
+      "id": "8e6b05c137e1611d",
+      "title": "Butterfly",
+      "subtitle": "Garden Life \u2022 705 shaped regions \u2022 117 colours",
       "path": "picture-5",
       "source": {
-        "title": "Bosque de animales marinos formado por invertebrados bent\u00f3nicos s\u00e9siles y buceador.",
-        "creator": "BravoGonzalo",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=193574931",
+        "title": "Butterfly",
+        "creator": "Mike's Birds from Riverside, CA, US",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=81465508",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-09/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-10/picture-5"
     }
   ]
 }
