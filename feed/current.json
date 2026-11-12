@@ -1,13 +1,73 @@
 {
   "schema": 1,
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T00:05:00Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T00:05:00Z",
   "pictures": [
     {
-      "id": "9da4f616224c441b",
+      "id": "df216034a1e6abf2",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 757 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035206",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-1"
+    },
+    {
+      "id": "6f15a67f7eaaec09",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 769 shaped regions \u2022 118 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656415",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-2"
+    },
+    {
+      "id": "376612c45fb20cd8",
+      "title": "File:Countryside at Munk\u00e1cs (Watering).jpg",
+      "subtitle": "Countryside \u2022 778 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "File:Countryside at Munk\u00e1cs (Watering).jpg",
+        "creator": "L\u00e1szl\u00f3 Medny\u00e1nszky",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=17528965",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-3"
+    },
+    {
+      "id": "8410a573218ce1f3",
+      "title": "Golden Retriever in the wood \u201cSchmalo\u201d near Hausd\u00fclmen, D\u00fclmen , North",
+      "subtitle": "Woodland Scene \u2022 755 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Golden Retriever in the wood \u201cSchmalo\u201d near Hausd\u00fclmen, D\u00fclmen , North Rhine-Westphalia , Germany",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=192179542",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-4"
+    },
+    {
+      "id": "e9aba4feb9864e9d",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-1",
+      "path": "picture-5",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -16,67 +76,7 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-11/picture-1"
-    },
-    {
-      "id": "48a2161dcf912356",
-      "title": "Purple sea urchin ( Sphaerechinus granularis ), Garajau Marine Nature ",
-      "subtitle": "Ocean Life \u2022 683 shaped regions \u2022 117 colours",
-      "path": "picture-2",
-      "source": {
-        "title": "Purple sea urchin ( Sphaerechinus granularis ), Garajau Marine Nature Reserve , Madeira , Portugal.",
-        "creator": "Diego Delso",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=91878053",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-11/picture-2"
-    },
-    {
-      "id": "ee262d1ebe74f826",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 753 shaped regions \u2022 120 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
-        "creator": "mark byzewski",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656410",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-11/picture-3"
-    },
-    {
-      "id": "4d5b810c2b68c39e",
-      "title": "Trees at the B\u00f6rnste hamlet, Kirchspiel, D\u00fclmen , North Rhine-Westphal",
-      "subtitle": "Woodland Scene \u2022 631 shaped regions \u2022 118 colours",
-      "path": "picture-4",
-      "source": {
-        "title": "Trees at the B\u00f6rnste hamlet, Kirchspiel, D\u00fclmen , North Rhine-Westphalia , Germany",
-        "creator": "Dietmar Rabich",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=58391293",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-11/picture-4"
-    },
-    {
-      "id": "6a2199f832019f7b",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 726 shaped regions \u2022 119 colours",
-      "path": "picture-5",
-      "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035342",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-11/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-5"
     }
   ]
 }
