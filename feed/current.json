@@ -1,58 +1,43 @@
 {
   "schema": 1,
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T00:05:00Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T00:05:00Z",
   "pictures": [
     {
-      "id": "df216034a1e6abf2",
-      "title": "Lepidoptera",
-      "subtitle": "Garden Life \u2022 757 shaped regions \u2022 119 colours",
+      "id": "30ad83f5e6e365f1",
+      "title": "Close-up of a flowerpot coral ( Goniopora lobata ), Ad Dimaniyat Islan",
+      "subtitle": "Ocean Life \u2022 662 shaped regions \u2022 120 colours",
       "path": "picture-1",
       "source": {
-        "title": "Lepidoptera",
-        "creator": "lwolfartist",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=134035206",
+        "title": "Close-up of a flowerpot coral ( Goniopora lobata ), Ad Dimaniyat Islands, Oman. The polyps are ca. 10 centimetres (3.9 in) long and the calices have a diameter of 3\u20135 millimetres (0.12\u20130.20 in).",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=151812203",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-13/picture-1"
     },
     {
-      "id": "6f15a67f7eaaec09",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 769 shaped regions \u2022 118 colours",
+      "id": "f8f968715c6ffdc3",
+      "title": "Mertens' Water Monitors - Currumbin Wildlife Sanctuary - Currumbin - Q",
+      "subtitle": "Wildlife Portrait \u2022 761 shaped regions \u2022 118 colours",
       "path": "picture-2",
       "source": {
-        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
-        "creator": "mark byzewski",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656415",
+        "title": "Mertens' Water Monitors - Currumbin Wildlife Sanctuary - Currumbin - Queensland - Australia",
+        "creator": "Adam Jones from Kelowna, BC, Canada",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=64193853",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-13/picture-2"
     },
     {
-      "id": "376612c45fb20cd8",
-      "title": "File:Countryside at Munk\u00e1cs (Watering).jpg",
-      "subtitle": "Countryside \u2022 778 shaped regions \u2022 120 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "File:Countryside at Munk\u00e1cs (Watering).jpg",
-        "creator": "L\u00e1szl\u00f3 Medny\u00e1nszky",
-        "license": "PUBLIC DOMAIN",
-        "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=17528965",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-3"
-    },
-    {
-      "id": "8410a573218ce1f3",
+      "id": "70b5d228a022c793",
       "title": "Golden Retriever in the wood \u201cSchmalo\u201d near Hausd\u00fclmen, D\u00fclmen , North",
       "subtitle": "Woodland Scene \u2022 755 shaped regions \u2022 120 colours",
-      "path": "picture-4",
+      "path": "picture-3",
       "source": {
         "title": "Golden Retriever in the wood \u201cSchmalo\u201d near Hausd\u00fclmen, D\u00fclmen , North Rhine-Westphalia , Germany",
         "creator": "Dietmar Rabich",
@@ -61,13 +46,13 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=192179542",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-13/picture-3"
     },
     {
-      "id": "e9aba4feb9864e9d",
+      "id": "c08566a99af8ea92",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-5",
+      "path": "picture-4",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -76,7 +61,22 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-12/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-13/picture-4"
+    },
+    {
+      "id": "8255d7b168f90889",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 746 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656155",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-13/picture-5"
     }
   ]
 }
