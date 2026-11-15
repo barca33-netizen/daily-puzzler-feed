@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T00:05:00Z",
+  "pictures": [
+    {
+      "id": "d9f3135050ee5345",
+      "title": "Countryside near Burrenbridge, Dublin Road, Castlewellan, County Down,",
+      "subtitle": "Countryside \u2022 711 shaped regions \u2022 120 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Countryside near Burrenbridge, Dublin Road, Castlewellan, County Down, Northern Ireland, May 2010",
+        "creator": "Ardfern",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=10719874",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-15/picture-1"
+    },
+    {
+      "id": "31ac2225e4bf92ab",
+      "title": "Female Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, S",
+      "subtitle": "Wildlife Portrait \u2022 758 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Female Nyala ( Tragelaphus angasii ) in Mlilwane Wildlife Sanctuary, Swaziland",
+        "creator": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=66101250",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-15/picture-2"
+    },
+    {
+      "id": "534923ba1e3ff353",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 732 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035346",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-15/picture-3"
+    },
+    {
+      "id": "7e891b3c5aa526d1",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-15/picture-4"
+    },
+    {
+      "id": "d67279d9feb7fe11",
+      "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest Nationa",
+      "subtitle": "Woodland Scene \u2022 717 shaped regions \u2022 118 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Mountain gorilla climbing a tree at Bwindi Impenetrable Forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=147147958",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-15/picture-5"
+    }
+  ]
+}
