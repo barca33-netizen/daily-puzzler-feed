@@ -1,82 +1,82 @@
 {
   "schema": 1,
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T00:05:00Z",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T00:05:00Z",
   "pictures": [
     {
-      "id": "142274072176a4b9",
-      "title": "500px provided description: A butterfly in okhla bird sanctuary [#mist",
-      "subtitle": "Garden Life \u2022 758 shaped regions \u2022 119 colours",
+      "id": "ad091b7faf47486d",
+      "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+      "subtitle": "Ocean Life \u2022 749 shaped regions \u2022 119 colours",
       "path": "picture-1",
       "source": {
-        "title": "500px provided description: A butterfly in okhla bird sanctuary [#mist ,#yellow ,#morning ,#people ,#bird ,#nature ,#flower ,#butterfly ,#animal ,#face ,#rural ,#sanctuary ,#birding ,#okhla ,#Ravi ,#Kumar ,#VTR]",
-        "creator": "Ravi Kumar",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=87761997",
+        "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+        "creator": "Nhobgood Nick Hobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=11462864",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-16/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-1"
     },
     {
-      "id": "92fc95bb73378b73",
-      "title": "G\u00f6versheide (near H\u00fclsenweg), D\u00fclmen , North Rhine-Westphalia , German",
-      "subtitle": "Woodland Scene \u2022 670 shaped regions \u2022 120 colours",
+      "id": "78d1e90a8cbee8d4",
+      "title": "Elephant seen in Chinnar Wildlife Reserve",
+      "subtitle": "Wildlife Portrait \u2022 706 shaped regions \u2022 118 colours",
       "path": "picture-2",
       "source": {
-        "title": "G\u00f6versheide (near H\u00fclsenweg), D\u00fclmen , North Rhine-Westphalia , Germany",
-        "creator": "Dietmar Rabich",
+        "title": "Elephant seen in Chinnar Wildlife Reserve",
+        "creator": "Amara Bharathy",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=42018898",
+        "pageUrl": "https://commons.wikimedia.org/?curid=127933856",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-16/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-2"
     },
     {
-      "id": "b50f0807244e0ce6",
-      "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly af",
-      "subtitle": "Big Cats \u2022 758 shaped regions \u2022 120 colours",
+      "id": "dce55c425f31e616",
+      "title": "Chimpanzee at Kibale forest National Park",
+      "subtitle": "Woodland Scene \u2022 707 shaped regions \u2022 120 colours",
       "path": "picture-3",
       "source": {
-        "title": "Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "title": "Chimpanzee at Kibale forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134376867",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-3"
+    },
+    {
+      "id": "c0b3fe041c372440",
+      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
+      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
         "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
         "license": "PUBLIC DOMAIN",
         "licenseUrl": "",
-        "pageUrl": "https://commons.wikimedia.org/?curid=44556753",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-16/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-4"
     },
     {
-      "id": "6a463a5a91020869",
-      "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands,",
-      "subtitle": "Tropical Nature \u2022 719 shaped regions \u2022 119 colours",
-      "path": "picture-4",
-      "source": {
-        "title": "A Piping Hornbill at Guinate Tropical Park, Lanzarote, Canary Islands, Spain.",
-        "creator": "Moni Sertel from Deutschland",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=12823267",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-16/picture-4"
-    },
-    {
-      "id": "49fca2ba02d3c87c",
-      "title": "Golden anemone ( Condylactis aurantiaca ), Pistol Bay, Paphos, Cyprus.",
-      "subtitle": "Ocean Life \u2022 722 shaped regions \u2022 120 colours",
+      "id": "92c197f46e315369",
+      "title": "Front garden with animal hutch, and view of Shipley in the distance, a",
+      "subtitle": "Countryside \u2022 661 shaped regions \u2022 120 colours",
       "path": "picture-5",
       "source": {
-        "title": "Golden anemone ( Condylactis aurantiaca ), Pistol Bay, Paphos, Cyprus. This species of anemone is found only in the Mediterranean Sea in depths of up to 80 metres. The base is attached to a rock, stone or shell and the column immersed in sediment, usually sand or gravel, with only the oral disc and tentacles visible. The oral disc may reach 12 centimetres (4.7 in), the overall diameter with the tentacles spread out is around 30 centimetres (12 in) and each tentacle is around 8 centimetres (3 in) long, green to yellow in colour, and sometimes greyish. They often have bands of white and other colours, and purple tips.",
-        "creator": "Diego Delso",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=114333135",
+        "title": "Front garden with animal hutch, and view of Shipley in the distance, at Bracken Hall Countryside Centre and Museum, Baildon, West Yorkshire , England .",
+        "creator": "Linda Spashett Storye book",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=6920442",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-16/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-5"
     }
   ]
 }

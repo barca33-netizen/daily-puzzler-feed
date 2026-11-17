@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T00:05:00Z",
+  "pictures": [
+    {
+      "id": "ad091b7faf47486d",
+      "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+      "subtitle": "Ocean Life \u2022 749 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+        "creator": "Nhobgood Nick Hobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=11462864",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-1"
+    },
+    {
+      "id": "78d1e90a8cbee8d4",
+      "title": "Elephant seen in Chinnar Wildlife Reserve",
+      "subtitle": "Wildlife Portrait \u2022 706 shaped regions \u2022 118 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Elephant seen in Chinnar Wildlife Reserve",
+        "creator": "Amara Bharathy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=127933856",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-2"
+    },
+    {
+      "id": "dce55c425f31e616",
+      "title": "Chimpanzee at Kibale forest National Park",
+      "subtitle": "Woodland Scene \u2022 707 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Chimpanzee at Kibale forest National Park",
+        "creator": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134376867",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-3"
+    },
+    {
+      "id": "c0b3fe041c372440",
+      "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lion",
+      "subtitle": "Big Cats \u2022 734 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Panthers, after Stubbs, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556475",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-4"
+    },
+    {
+      "id": "92c197f46e315369",
+      "title": "Front garden with animal hutch, and view of Shipley in the distance, a",
+      "subtitle": "Countryside \u2022 661 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Front garden with animal hutch, and view of Shipley in the distance, at Bracken Hall Countryside Centre and Museum, Baildon, West Yorkshire , England .",
+        "creator": "Linda Spashett Storye book",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=6920442",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-17/picture-5"
+    }
+  ]
+}
