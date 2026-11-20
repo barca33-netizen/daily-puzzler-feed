@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T00:05:00Z",
+  "pictures": [
+    {
+      "id": "bf041263c501b5f9",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-20/picture-1"
+    },
+    {
+      "id": "cdf82523bf5d5663",
+      "title": "Front garden with animal hutch, and view of Shipley in the distance, a",
+      "subtitle": "Countryside \u2022 661 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Front garden with animal hutch, and view of Shipley in the distance, at Bracken Hall Countryside Centre and Museum, Baildon, West Yorkshire , England .",
+        "creator": "Linda Spashett Storye book",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=6920442",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-20/picture-2"
+    },
+    {
+      "id": "5ce40628d41aeb00",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 723 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656175",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-20/picture-3"
+    },
+    {
+      "id": "d7c6179dc392d2ce",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 747 shaped regions \u2022 119 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035327",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-20/picture-4"
+    },
+    {
+      "id": "0e8f1015c82355ac",
+      "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+      "subtitle": "Ocean Life \u2022 749 shaped regions \u2022 119 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+        "creator": "Nhobgood Nick Hobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=11462864",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-20/picture-5"
+    }
+  ]
+}
