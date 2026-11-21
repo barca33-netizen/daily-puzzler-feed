@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T00:05:00Z",
+  "pictures": [
+    {
+      "id": "d415a507df5f22ae",
+      "title": "Willan's chromodoris ( Chromodoris willani ), Anilao, Philippines. Thi",
+      "subtitle": "Ocean Life \u2022 743 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Willan's chromodoris ( Chromodoris willani ), Anilao, Philippines. This 5 centimetres (2.0 in)-long nudibranch can be found in the Western Pacific Ocean and feeds, like many other nudibranchs, on sponges.",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=149162772",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-1"
+    },
+    {
+      "id": "d7dfceda341566e4",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-2"
+    },
+    {
+      "id": "6e9597a59470a228",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-3"
+    },
+    {
+      "id": "82fb5f859cef1c8d",
+      "title": "A sheep skull found in the countryside in the neighbourhood Pinhal wit",
+      "subtitle": "Countryside \u2022 698 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "A sheep skull found in the countryside in the neighbourhood Pinhal within the city of Albufeira , Algarve, Portugal.",
+        "creator": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share \u2013 to copy, distribute and transmit the work to remix \u2013 to adapt the work Under the following conditions: attribution \u2013 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike \u2013 If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=65790778",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-4"
+    },
+    {
+      "id": "15f098768ce00ef3",
+      "title": "Leopard (Panthera pardus) Female leopard descending from its favourite",
+      "subtitle": "Wildlife Portrait \u2022 672 shaped regions \u2022 113 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Leopard (Panthera pardus) Female leopard descending from its favourite tree, where it spent the warmest hours of the day. Londolozi, Sabi Sand, South Africa",
+        "creator": "Arturo de Frias Marques",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=36808497",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-5"
+    }
+  ]
+}
