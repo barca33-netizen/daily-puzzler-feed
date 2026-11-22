@@ -1,28 +1,43 @@
 {
   "schema": 1,
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T00:05:00Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T00:05:00Z",
   "pictures": [
     {
-      "id": "d415a507df5f22ae",
-      "title": "Willan's chromodoris ( Chromodoris willani ), Anilao, Philippines. Thi",
-      "subtitle": "Ocean Life \u2022 743 shaped regions \u2022 119 colours",
+      "id": "c5e572e3f7ed06cc",
+      "title": "Butterflies are my new interest and if I see something interest, am ha",
+      "subtitle": "Garden Life \u2022 717 shaped regions \u2022 118 colours",
       "path": "picture-1",
       "source": {
-        "title": "Willan's chromodoris ( Chromodoris willani ), Anilao, Philippines. This 5 centimetres (2.0 in)-long nudibranch can be found in the Western Pacific Ocean and feeds, like many other nudibranchs, on sponges.",
-        "creator": "Diego Delso",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=149162772",
+        "title": "Butterflies are my new interest and if I see something interest, am happy to spend time to get some good shots. This is a Blue tiger, similar to its other cousin, the common tiger. I chased it for a short distance trying to get a good shot and grabbed a few shots while on this flower. Only later during review in the laptop did I see the little fly on the bird and they seemed to share the sweetness of the flower! What a lovely surprise! Did you know that most butterflies are poisonous to birds? There are some that are not, but many are. The few that are not, mimic the poisonous ones - a form of mimicry called the Batesian Mimicry. It is an interested read! Thanks in advance for your views and / or feedback. Much appreciated.",
+        "creator": "Hari K Patibanda",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=110193325",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-1"
     },
     {
-      "id": "d7dfceda341566e4",
+      "id": "2969de04d093bef6",
+      "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landsee",
+      "subtitle": "Big Cats \u2022 746 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556708",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-2"
+    },
+    {
+      "id": "222c9e3fc0ae8ba0",
       "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
       "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
-      "path": "picture-2",
+      "path": "picture-3",
       "source": {
         "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
         "creator": "H. Zell",
@@ -31,52 +46,37 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-2"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-3"
     },
     {
-      "id": "6e9597a59470a228",
-      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
-      "subtitle": "Mountain Wildlife \u2022 709 shaped regions \u2022 120 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
-        "creator": "mark byzewski",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=159656376",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-3"
-    },
-    {
-      "id": "82fb5f859cef1c8d",
-      "title": "A sheep skull found in the countryside in the neighbourhood Pinhal wit",
-      "subtitle": "Countryside \u2022 698 shaped regions \u2022 120 colours",
+      "id": "88eac87f85e64fe7",
+      "title": "Impression of animal life at our biking along the IJsselriver",
+      "subtitle": "Countryside \u2022 735 shaped regions \u2022 117 colours",
       "path": "picture-4",
       "source": {
-        "title": "A sheep skull found in the countryside in the neighbourhood Pinhal within the city of Albufeira , Algarve, Portugal.",
-        "creator": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share \u2013 to copy, distribute and transmit the work to remix \u2013 to adapt the work Under the following conditions: attribution \u2013 You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike \u2013 If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=65790778",
+        "title": "Impression of animal life at our biking along the IJsselriver",
+        "creator": "Henk Monster",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=56431689",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-4"
     },
     {
-      "id": "15f098768ce00ef3",
-      "title": "Leopard (Panthera pardus) Female leopard descending from its favourite",
-      "subtitle": "Wildlife Portrait \u2022 672 shaped regions \u2022 113 colours",
+      "id": "1b2c07efee5cc2d8",
+      "title": "Butterfly at Wingham Wildlife Park Kent UK",
+      "subtitle": "Wildlife Portrait \u2022 765 shaped regions \u2022 117 colours",
       "path": "picture-5",
       "source": {
-        "title": "Leopard (Panthera pardus) Female leopard descending from its favourite tree, where it spent the warmest hours of the day. Londolozi, Sabi Sand, South Africa",
-        "creator": "Arturo de Frias Marques",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=36808497",
+        "title": "Butterfly at Wingham Wildlife Park Kent UK",
+        "creator": "Salwa Farwaneh",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=168951316",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-21/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-5"
     }
   ]
 }

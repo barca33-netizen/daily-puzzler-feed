@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T00:05:00Z",
+  "pictures": [
+    {
+      "id": "c5e572e3f7ed06cc",
+      "title": "Butterflies are my new interest and if I see something interest, am ha",
+      "subtitle": "Garden Life \u2022 717 shaped regions \u2022 118 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Butterflies are my new interest and if I see something interest, am happy to spend time to get some good shots. This is a Blue tiger, similar to its other cousin, the common tiger. I chased it for a short distance trying to get a good shot and grabbed a few shots while on this flower. Only later during review in the laptop did I see the little fly on the bird and they seemed to share the sweetness of the flower! What a lovely surprise! Did you know that most butterflies are poisonous to birds? There are some that are not, but many are. The few that are not, mimic the poisonous ones - a form of mimicry called the Batesian Mimicry. It is an interested read! Thanks in advance for your views and / or feedback. Much appreciated.",
+        "creator": "Hari K Patibanda",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=110193325",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-1"
+    },
+    {
+      "id": "2969de04d093bef6",
+      "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landsee",
+      "subtitle": "Big Cats \u2022 746 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Vixen, a Scotch Terrier, by Edwin Landseer, engraved by Thomas Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556708",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-2"
+    },
+    {
+      "id": "222c9e3fc0ae8ba0",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-3"
+    },
+    {
+      "id": "88eac87f85e64fe7",
+      "title": "Impression of animal life at our biking along the IJsselriver",
+      "subtitle": "Countryside \u2022 735 shaped regions \u2022 117 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Impression of animal life at our biking along the IJsselriver",
+        "creator": "Henk Monster",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=56431689",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-4"
+    },
+    {
+      "id": "1b2c07efee5cc2d8",
+      "title": "Butterfly at Wingham Wildlife Park Kent UK",
+      "subtitle": "Wildlife Portrait \u2022 765 shaped regions \u2022 117 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Butterfly at Wingham Wildlife Park Kent UK",
+        "creator": "Salwa Farwaneh",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=168951316",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-22/picture-5"
+    }
+  ]
+}
