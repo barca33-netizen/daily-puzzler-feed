@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T00:05:00Z",
+  "pictures": [
+    {
+      "id": "9b2b1210836c53bd",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-23/picture-1"
+    },
+    {
+      "id": "b8b1256aac588491",
+      "title": "Nature reserve \u201cAm Enteborn\u201d, D\u00fclmen , North Rhine-Westphalia , German",
+      "subtitle": "Woodland Scene \u2022 652 shaped regions \u2022 118 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Nature reserve \u201cAm Enteborn\u201d, D\u00fclmen , North Rhine-Westphalia , Germany The Am Enteborn nature reserve is located in the municipal area of D\u00fclmen in the M\u00fcnsterland region and is a small, ecologically valuable protected area. It is primarily a wetland and spring area with meadows, woodlands, and near-natural water structures. The name \u201cEnteborn\u201d refers to a spring or a water-rich area. Such wet locations provide habitat for amphibians, insects, and numerous bird species. Reed beds, tall forb communities, and some old tree stands are also typical features.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=32837390",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-23/picture-2"
+    },
+    {
+      "id": "341e321a3b591ccd",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 752 shaped regions \u2022 120 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656158",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-23/picture-3"
+    },
+    {
+      "id": "4a92085f3e70d96b",
+      "title": "Contre-jour photograph of a standing piglet ( Sus domesticus juvenile)",
+      "subtitle": "Countryside \u2022 743 shaped regions \u2022 118 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Contre-jour photograph of a standing piglet ( Sus domesticus juvenile) at sunset under a colorful sky, in the dry paddy fields of the countryside of Don Det , Si Phan Don , Laos .",
+        "creator": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=143038326",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-23/picture-4"
+    },
+    {
+      "id": "befdf42661607ee9",
+      "title": "Blesbok ( Damaliscus pygargus phillipsi , foreground) and Impala ( Aep",
+      "subtitle": "Wildlife Portrait \u2022 737 shaped regions \u2022 117 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Blesbok ( Damaliscus pygargus phillipsi , foreground) and Impala ( Aepyceros melampus , background) in the Mlilwane Wildlife Sanctuary, Swaziland. Grazers are attracted to green grass that emerges after wildfires (or controlled burns). The buffalo thorn tree ( Ziziphus mucronata ) is sprouting its first foliage of the season.",
+        "creator": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=66101045",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-23/picture-5"
+    }
+  ]
+}
