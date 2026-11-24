@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T00:05:00Z",
+  "pictures": [
+    {
+      "id": "7b9fdc947db17730",
+      "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+      "subtitle": "Ocean Life \u2022 749 shaped regions \u2022 119 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Monanchora arbuscula (Pink Lumpy sponge)",
+        "creator": "Nhobgood Nick Hobgood",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=11462864",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-24/picture-1"
+    },
+    {
+      "id": "11864930a625d3f7",
+      "title": "Lion Couchant by Edwin Landseer Engravings of lions, tigers, panthers,",
+      "subtitle": "Big Cats \u2022 729 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Lion Couchant by Edwin Landseer Engravings of lions, tigers, panthers, leopards, dogs, &c., chiefly after the designs of Sir Edwin Landseer, by his brother, Thomas Landseer. Printed from the original plates, pub. between 1823 and 1828.",
+        "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
+        "license": "PUBLIC DOMAIN",
+        "licenseUrl": "",
+        "pageUrl": "https://commons.wikimedia.org/?curid=44556265",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-24/picture-2"
+    },
+    {
+      "id": "9c5dc2fe47545a0b",
+      "title": "Butterfly at Wingham Wildlife Park Kent UK",
+      "subtitle": "Wildlife Portrait \u2022 765 shaped regions \u2022 117 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Butterfly at Wingham Wildlife Park Kent UK",
+        "creator": "Salwa Farwaneh",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "pageUrl": "https://commons.wikimedia.org/?curid=168951316",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-24/picture-3"
+    },
+    {
+      "id": "96235f48ed303d5c",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 701 shaped regions \u2022 120 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656389",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-24/picture-4"
+    },
+    {
+      "id": "7e92b3802670022b",
+      "title": "Beauchamp Falls in Great Otway National Park , Beech Forest , Victoria",
+      "subtitle": "Woodland Scene \u2022 661 shaped regions \u2022 118 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Beauchamp Falls in Great Otway National Park , Beech Forest , Victoria , Australia Efforts to protect Great Otway National Park began in the early 1900s, when the first areas of lush rainforest and coastal landscapes were placed under protection. In 1967, the park was officially established as Great Otway National Park to preserve its diverse ecosystems, including dense eucalyptus forests, waterfalls, and coastal areas. In the following decades, the park\u2019s area was significantly expanded through the merger of several protected areas. The park is also significant to Aboriginal culture, whose people have lived in the region for thousands of years and whose traditions and connection to the land are honored and protected within the park.",
+        "creator": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=84431082",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-24/picture-5"
+    }
+  ]
+}
