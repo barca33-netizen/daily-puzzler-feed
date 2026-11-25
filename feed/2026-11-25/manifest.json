@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T00:05:00Z",
+  "pictures": [
+    {
+      "id": "d4e6918af1a23a09",
+      "title": "Leopard (Panthera pardus) Female leopard descending from its favourite",
+      "subtitle": "Wildlife Portrait \u2022 672 shaped regions \u2022 113 colours",
+      "path": "picture-1",
+      "source": {
+        "title": "Leopard (Panthera pardus) Female leopard descending from its favourite tree, where it spent the warmest hours of the day. Londolozi, Sabi Sand, South Africa",
+        "creator": "Arturo de Frias Marques",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=36808497",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-25/picture-1"
+    },
+    {
+      "id": "c4307e51e42c068a",
+      "title": "Close-up of a flowerpot coral ( Goniopora lobata ), Ad Dimaniyat Islan",
+      "subtitle": "Ocean Life \u2022 662 shaped regions \u2022 120 colours",
+      "path": "picture-2",
+      "source": {
+        "title": "Close-up of a flowerpot coral ( Goniopora lobata ), Ad Dimaniyat Islands, Oman. The polyps are ca. 10 centimetres (3.9 in) long and the calices have a diameter of 3\u20135 millimetres (0.12\u20130.20 in).",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=151812203",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-25/picture-2"
+    },
+    {
+      "id": "87db0a7593e2c678",
+      "title": "Lepidoptera",
+      "subtitle": "Garden Life \u2022 726 shaped regions \u2022 119 colours",
+      "path": "picture-3",
+      "source": {
+        "title": "Lepidoptera",
+        "creator": "lwolfartist",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=134035342",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-25/picture-3"
+    },
+    {
+      "id": "0cc524a194a055ff",
+      "title": "Impression of animal life at our biking along the IJsselriver",
+      "subtitle": "Countryside \u2022 735 shaped regions \u2022 117 colours",
+      "path": "picture-4",
+      "source": {
+        "title": "Impression of animal life at our biking along the IJsselriver",
+        "creator": "Henk Monster",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=56431689",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-25/picture-4"
+    },
+    {
+      "id": "a1c00b9c2a456ac0",
+      "title": "Animal sheds, Forest Farm",
+      "subtitle": "Woodland Scene \u2022 771 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Animal sheds, Forest Farm",
+        "creator": "Hugh Venables",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=143193102",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-25/picture-5"
+    }
+  ]
+}
