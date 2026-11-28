@@ -1,58 +1,43 @@
 {
   "schema": 1,
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T00:05:00Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T00:05:00Z",
   "pictures": [
     {
-      "id": "357b39d5b472627f",
-      "title": "Blesbok ( Damaliscus pygargus phillipsi , foreground) and Impala ( Aep",
-      "subtitle": "Wildlife Portrait \u2022 737 shaped regions \u2022 117 colours",
+      "id": "9906d8ca072841a3",
+      "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+      "subtitle": "Tropical Nature \u2022 734 shaped regions \u2022 119 colours",
       "path": "picture-1",
       "source": {
-        "title": "Blesbok ( Damaliscus pygargus phillipsi , foreground) and Impala ( Aepyceros melampus , background) in the Mlilwane Wildlife Sanctuary, Swaziland. Grazers are attracted to green grass that emerges after wildfires (or controlled burns). The buffalo thorn tree ( Ziziphus mucronata ) is sprouting its first foliage of the season.",
-        "creator": "Bernard Gagnon",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=66101045",
+        "title": "Burrowing Owl; Guinate Tropical Park, Guinate, Lanzarote, Spain.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=19611878",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-27/picture-1"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-28/picture-1"
     },
     {
-      "id": "7bebf0476bb23555",
-      "title": "Impression of animal life at our biking along the IJsselriver",
-      "subtitle": "Countryside \u2022 735 shaped regions \u2022 117 colours",
+      "id": "c726dcd1bf4e264a",
+      "title": "Wildlife photographers wearing a ghillie suit looking for red deers in",
+      "subtitle": "Wildlife Portrait \u2022 705 shaped regions \u2022 118 colours",
       "path": "picture-2",
       "source": {
-        "title": "Impression of animal life at our biking along the IJsselriver",
-        "creator": "Henk Monster",
-        "license": "CC BY 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=56431689",
-        "provider": "Wikimedia Commons"
-      },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-27/picture-2"
-    },
-    {
-      "id": "b390f4d8b492ea5f",
-      "title": "Large-banded blenny ( Ophioblennius steindachneri ), Cabo San Lucas, B",
-      "subtitle": "Ocean Life \u2022 750 shaped regions \u2022 118 colours",
-      "path": "picture-3",
-      "source": {
-        "title": "Large-banded blenny ( Ophioblennius steindachneri ), Cabo San Lucas, Baja California, Mexico. It's found in coral reefs in the eastern Pacific ocean. This species reaches a length of 18 centimetres (7.1 in). They are territorial and feed during the day when they graze on algae and prey on sessile invertebrates by using the incisor teeth, which are similar in shape to combs, to scrape food off the rock.",
-        "creator": "Diego Delso",
+        "title": "Wildlife photographers wearing a ghillie suit looking for red deers in the Aletsch Forest Nature Reserve. Some wild animals (such as red deers) are very difficult to approach without disturbing them, which sometimes leads some wildlife photographers to wear a ghillie suit when they go in search of them. By remaining undetected, wildlife photographers can observe animal behaviour that would otherwise not be observable if the animal would have had knowledge of human presence. Image set number 3 out of 6.",
+        "creator": "Giles Laurent",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=164688224",
+        "pageUrl": "https://commons.wikimedia.org/?curid=142045148",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-27/picture-3"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-28/picture-2"
     },
     {
-      "id": "023e0e4cfb684102",
+      "id": "feb595ef73e5320f",
       "title": "c",
       "subtitle": "Big Cats \u2022 753 shaped regions \u2022 119 colours",
-      "path": "picture-4",
+      "path": "picture-3",
       "source": {
         "title": "c",
         "creator": "Landseer, Edwin Henry; Landseer, Edwin Henry; Landseer, Thomas",
@@ -61,22 +46,37 @@
         "pageUrl": "https://commons.wikimedia.org/?curid=43576198",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-27/picture-4"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-28/picture-3"
     },
     {
-      "id": "02517c65a03afce1",
-      "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
-      "subtitle": "Woodland Scene \u2022 716 shaped regions \u2022 120 colours",
-      "path": "picture-5",
+      "id": "512b14e2bcd3db60",
+      "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, ",
+      "subtitle": "Mountain Wildlife \u2022 683 shaped regions \u2022 119 colours",
+      "path": "picture-4",
       "source": {
-        "title": "Forest Animals exhibits at the Northwest Trek Wildlife Park.",
-        "creator": "Chris Light",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "pageUrl": "https://commons.wikimedia.org/?curid=137806527",
+        "title": "A morning at Rocky Mountain Arsenal National Wildlife Refuge. Denver, Colorado. Deer. Buffalo. Bison.",
+        "creator": "mark byzewski",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=159656321",
         "provider": "Wikimedia Commons"
       },
-      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-27/picture-5"
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-28/picture-4"
+    },
+    {
+      "id": "23825ec9cc840cb2",
+      "title": "Mortality",
+      "subtitle": "Countryside \u2022 742 shaped regions \u2022 120 colours",
+      "path": "picture-5",
+      "source": {
+        "title": "Mortality",
+        "creator": "jockrutherford from Owen Sound, ON",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "pageUrl": "https://commons.wikimedia.org/?curid=89137059",
+        "provider": "Wikimedia Commons"
+      },
+      "baseUrl": "https://raw.githubusercontent.com/barca33-netizen/daily-puzzler-feed/main/feed/2026-11-28/picture-5"
     }
   ]
 }
